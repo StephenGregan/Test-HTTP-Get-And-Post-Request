@@ -1,0 +1,11 @@
+C:\Users\Ronan\source\repos\HTTPGetAndPostRequest\HTTPGetAndPostRequest\bin\Debug\netcoreapp2.0\HTTPGetAndPostRequest.deps.json
+C:\Users\Ronan\source\repos\HTTPGetAndPostRequest\HTTPGetAndPostRequest\bin\Debug\netcoreapp2.0\HTTPGetAndPostRequest.runtimeconfig.json
+C:\Users\Ronan\source\repos\HTTPGetAndPostRequest\HTTPGetAndPostRequest\bin\Debug\netcoreapp2.0\HTTPGetAndPostRequest.runtimeconfig.dev.json
+C:\Users\Ronan\source\repos\HTTPGetAndPostRequest\HTTPGetAndPostRequest\bin\Debug\netcoreapp2.0\HTTPGetAndPostRequest.dll
+C:\Users\Ronan\source\repos\HTTPGetAndPostRequest\HTTPGetAndPostRequest\bin\Debug\netcoreapp2.0\HTTPGetAndPostRequest.pdb
+C:\Users\Ronan\source\repos\HTTPGetAndPostRequest\HTTPGetAndPostRequest\obj\Debug\netcoreapp2.0\HTTPGetAndPostRequest.csprojResolveAssemblyReference.cache
+C:\Users\Ronan\source\repos\HTTPGetAndPostRequest\HTTPGetAndPostRequest\obj\Debug\netcoreapp2.0\HTTPGetAndPostRequest.csproj.CoreCompileInputs.cache
+C:\Users\Ronan\source\repos\HTTPGetAndPostRequest\HTTPGetAndPostRequest\obj\Debug\netcoreapp2.0\HTTPGetAndPostRequest.AssemblyInfoInputs.cache
+C:\Users\Ronan\source\repos\HTTPGetAndPostRequest\HTTPGetAndPostRequest\obj\Debug\netcoreapp2.0\HTTPGetAndPostRequest.AssemblyInfo.cs
+C:\Users\Ronan\source\repos\HTTPGetAndPostRequest\HTTPGetAndPostRequest\obj\Debug\netcoreapp2.0\HTTPGetAndPostRequest.dll
+C:\Users\Ronan\source\repos\HTTPGetAndPostRequest\HTTPGetAndPostRequest\obj\Debug\netcoreapp2.0\HTTPGetAndPostRequest.pdb
