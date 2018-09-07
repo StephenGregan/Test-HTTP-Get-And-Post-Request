@@ -7,7 +7,7 @@ class is used to give the output from the response.  We then want to get the con
 out the contents.
 
 With a POST request we hope to send data to the server.  Using KeyValuePair queries we create a list that takes in two strings
-and populate the list with "query1" "stephen" and "query2" "Ian".  When initializing a new instance of the FormEncodedContent class 
+and populate the list with "query1" "Stephen" and "query2" "Ian".  When initializing a new instance of the FormEncodedContent class 
 be aware that it requires a KeyValuePair structure which in turn must be IEnumerable (helpful link below).  The HttpRespnseMessage 
 class has one alteration from the GetRequst method, in this method the client posts asynchronous to the server.  The HttpContentHeaders
 class represents the collection of content headers.  Finally the content is printed out to the console.
